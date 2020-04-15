@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Snips and Pieces
-image: /img/home-jumbotron.jpg
+image: /img/keyboard-close-up-sergi-kabrera-unsplash.jpg
 heading: Choose a language to get started
 subheading: Code snippets for you to learn, edit and use in your own projects
 mainpitch:
