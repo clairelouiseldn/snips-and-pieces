@@ -5,12 +5,13 @@ image: /img/keyboard-close-up-sergi-kabrera-unsplash.jpg
 heading: Choose a language to get started
 subheading: Code snippets for you to learn, edit and use in your own projects
 mainpitch:
-  title: Why Kaldi
+  title: How does this site work?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    There are two options for learning with Snips and Pieces. Jump straight in
+    to our code snippets to see working examples that you can edit, copy and
+    use. Where one of our blog items explains the concept further, you will see
+    this linked in the snippet description. Alternatively, you can browse or
+    search our blog posts to learn how specific tasks can be accomplished.
 description: We have categorised our code snippets in to five distinct
   categories. Select one and explore the convenient library we have built for
   each one.
