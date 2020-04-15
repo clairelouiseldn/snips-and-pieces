@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Free
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+There is no charge for using any aspect of Snips and Pieces. The code examples you see can be copied and adapted for your own projects too.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Inclusive
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+We aim to avoid technical jargon in our explanations so that we can include all learners at whatever stage they are at in their coding journey.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Accessible
+
+We try very hard to ensure that this website is accessible to all of our visitors. We have a dedicated page with information on how we have built this site to provide the best possible experience for users who need to change certain aspects and navigate using assistive technology.
+
+### Privacy-focused
+
+It is really important to us that users know if a site is collecting information about their visit and what happens to this data. We have made our privacy policy as simple as possible to understand.
