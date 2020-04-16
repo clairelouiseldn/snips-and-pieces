@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Snips and Pieces
 image: /img/keyboard-close-up-sergi-kabrera-unsplash.jpg
-heading: Choose a language to get started
+heading: Choose a topic to get started
 subheading: Code snippets for you to learn, edit and use in your own projects
 mainpitch:
   title: How does this site work?
@@ -12,9 +12,8 @@ mainpitch:
     use. Where one of our blog items explains the concept further, you will see
     this linked in the snippet description. Alternatively, you can browse or
     search our blog posts to learn how specific tasks can be accomplished.
-description: We have categorised our code snippets in to five distinct
-  categories. Select one and explore the convenient library we have built for
-  each one.
+description: The five categories below contain our code snippets only, so you
+  can quickly find what you need.
 intro:
   blurbs:
     - image: /img/coffee.png
