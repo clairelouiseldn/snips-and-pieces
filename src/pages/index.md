@@ -28,7 +28,7 @@ intro:
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
       heading: CSS
-    - image: /img/tutorials.png
+    - image: /img/javascript-240.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
