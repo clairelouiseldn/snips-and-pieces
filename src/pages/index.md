@@ -16,7 +16,7 @@ description: The five categories below contain our code snippets only, so you
   can quickly find what you need.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/html-512.png
       text: >
         Code snippets to help with everything from creating forms to full-page
         layouts. 
