@@ -21,7 +21,7 @@ intro:
         Code snippets to help with everything from creating forms to full-page
         layouts. 
       heading: HTML
-    - image: /img/css-256.png
+    - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
