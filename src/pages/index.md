@@ -21,14 +21,14 @@ intro:
         Code snippets to help with everything from creating forms to full-page
         layouts. 
       heading: HTML
-    - image: /img/css-240.png
+    - image: /img/html-240.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
       heading: CSS
-    - image: /img/javascript-240.png
+    - image: /img/html-240.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -36,7 +36,7 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
       heading: JavaScript
-    - image: /img/accessibility-240.png
+    - image: /img/html-240.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
