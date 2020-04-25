@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Snips and Pieces
+subheading: Code snippets for you to learn, edit and use in your own projects
 image: /img/keyboard-close-up-sergi-kabrera-unsplash.jpg
 heading: Choose a topic to get started
-subheading: Code snippets for you to learn, edit and use in your own projects
 mainpitch:
   title: How does this site work?
   description: >
@@ -44,6 +44,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
       heading: Accessibility
+    - heading: Test heading
+      text: Test paragraph
+      image: /img/accessibility-240.png
   heading: H
   description: |
     P
