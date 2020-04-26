@@ -44,9 +44,6 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
       heading: Accessibility
-    - heading: Test heading
-      text: Test paragraph
-      image: /img/accessibility-240.png
   heading: H
   description: |
     P
